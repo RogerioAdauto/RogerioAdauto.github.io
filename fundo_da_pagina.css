@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+#titulo{
+    font-family: cursive;
+    color: crimson;
+    margin-left: 10%;
+
+}
+
+#subtitulo{
+    font-family: cursive;
+    color: crimson;
+    margin-left: 12%;
+}
+
+fieldset{
+    margin: 0%;
+}
+
+body{
+    background-color: cyan;
+    font-family: cursive;
+    font-size: 1em;
+    color: crimson;
+    margin-left: 36%;
+    margin-top: 3%;
+    justify-content: center;
+}
+
+input,textarea, button{
+    color: darkgreen;
+    font-size: 2em;
+    font-family: cursive;
+    border-radius: 5px;
+}
+
+.campo{
+    margin-bottom: 1em;
+}
+
+.campo label {
+margin-bottom: 1em;
+color: darkgreen;
+display: block;
+}
+
+fieldset.campo.grupo{
+    float: left;
+    margin-right: 1em;
+}
